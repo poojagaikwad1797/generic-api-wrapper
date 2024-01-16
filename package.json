@@ -1,0 +1,38 @@
+{
+  "name": "generic-api-wrapper",
+  "version": "1.0.0",
+  "description": "The Generic API Wrapper is a versatile and lightweight utility library for making HTTP requests to various APIs in your JavaScript and TypeScript projects.",
+  "main": "src/apiWrapper.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojagaikwad1797/generic-api-wrapper.git"
+  },
+  "keywords": [
+    "api",
+    "http",
+    "request",
+    "wrapper",
+    "utility",
+    "javascript",
+    "typescript",
+    "axios",
+    "http-client",
+    "async",
+    "typescript-support"
+  ],
+  "author": "Pooja Gaikwad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poojagaikwad1797/generic-api-wrapper/issues"
+  },
+  "homepage": "https://github.com/poojagaikwad1797/generic-api-wrapper#readme",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/react": "^18.2.48",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.3.3"
+  }
+}
